@@ -47,8 +47,8 @@ Proyek ini mencakup semua bagian wajib dari penugasan:
 
 ---
 
-## 👤 Kontributor
+## 👤 Konstributor
 
-| Nama | NIM | Mata Kuliah |
+| Nama | NPM | Mata Kuliah |
 | :--- | :--- | :--- |
 | [Nabila Zahra] | [2315061049] | Praktikum Pemrograman Web |
